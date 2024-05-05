@@ -1,5 +1,5 @@
 # Microservices API Gateway Pattern and Saga Pattern Implementation
-[![VIDEO LINK](https://drive.google.com/file/d/1lfHriZiuc1myAxEXIv-L9Z6E3-xUxzUB/view?usp=sharing)
+[VIDEO LINK](https://drive.google.com/file/d/1lfHriZiuc1myAxEXIv-L9Z6E3-xUxzUB/view?usp=sharing)
 ## Introduction
 
 This repository provides an example implementation of two important patterns in microservices architecture: the API Gateway pattern and the Saga pattern. The API Gateway pattern serves as a central entry point for client interaction, while the Saga pattern manages distributed transactions and ensures data consistency across multiple services.
