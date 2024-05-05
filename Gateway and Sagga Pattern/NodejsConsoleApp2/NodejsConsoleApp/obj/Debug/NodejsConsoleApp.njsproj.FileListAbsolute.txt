@@ -1,0 +1,3 @@
+D:\Masaüstü\NodejsConsoleApp\NodejsConsoleApp\obj\Debug\NodejsConsoleApp.njsproj.AssemblyReference.cache
+D:\Masaüstü\NodejsConsoleApp\NodejsConsoleApp\obj\Debug\NodejsConsoleApp.njsproj.CoreCompileInputs.cache
+D:\Masaüstü\NodejsConsoleApp\NodejsConsoleApp\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B8557-2C5C-4E96-BD15-B43324D9BFB3}|NodejsConsoleApp\\NodejsConsoleApp.njsproj|D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\NodejsConsoleApp\\gateway.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF6B8557-2C5C-4E96-BD15-B43324D9BFB3}|NodejsConsoleApp\\NodejsConsoleApp.njsproj|solutionrelative:NodejsConsoleApp\\gateway.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B8557-2C5C-4E96-BD15-B43324D9BFB3}|NodejsConsoleApp\\NodejsConsoleApp.njsproj|D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\NodejsConsoleApp\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF6B8557-2C5C-4E96-BD15-B43324D9BFB3}|NodejsConsoleApp\\NodejsConsoleApp.njsproj|solutionrelative:NodejsConsoleApp\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gateway.js",
+              "DocumentMoniker": "D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\NodejsConsoleApp\\gateway.js",
+              "RelativeDocumentMoniker": "NodejsConsoleApp\\gateway.js",
+              "ToolTip": "D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\NodejsConsoleApp\\gateway.js",
+              "RelativeToolTip": "NodejsConsoleApp\\gateway.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-24T12:51:17.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\NodejsConsoleApp\\app.js",
+              "RelativeDocumentMoniker": "NodejsConsoleApp\\app.js",
+              "ToolTip": "D:\\Masa\u00FCst\u00FC\\NodejsConsoleApp\\NodejsConsoleApp\\app.js",
+              "RelativeToolTip": "NodejsConsoleApp\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-24T12:48:59.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
