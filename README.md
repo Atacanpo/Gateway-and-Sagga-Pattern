@@ -67,8 +67,6 @@ To run the example implementation, follow these steps:
 
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Install dependencies: `npm install`.
-4. Start the services: `npm start`.
 5. Test the functionality using a REST client or tool like Postman.
 
 ## Conclusion
